@@ -3,7 +3,7 @@ Welcome to my site
 - 👀 I’m interested in football, coding, playing game, or learning something new
 - 🌱 I’m currently learning Python
 - Contact : 
-        Phone number : 0393725596
+        Phone number : 0393725596; 
         Email : phamdt203@gmail.com
 <!---
 phamdt203/phamdt203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
