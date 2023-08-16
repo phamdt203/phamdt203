@@ -8,7 +8,7 @@ My full name is Pham Dinh Tien. I'm currently studying Artificial Intelligence, 
 
 ![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamdt203&show_icons=true&theme=radical)
 
-<a href="https://github.com/phamdt203/face-Detection">
+<a href="https://github.com/phamdt203/faceRecognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamdt203&repo=face-Detection&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamdt203&repo=faceRecognition&theme=dracula" />
 </a>
